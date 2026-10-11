@@ -1,2 +1,3 @@
-# altasfiyah-products
-Product photos for Al-Tasfiyah WhatsApp bot
+# صور منتجات التصفية الشاملة
+
+صور المنتجات اللي يرسلها بوت الواتساب. كل صورة اسمها نفس رقم المنتج (ref) في جدول «المنتجات» في n8n.
