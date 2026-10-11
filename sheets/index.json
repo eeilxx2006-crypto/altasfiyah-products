@@ -1,0 +1,61 @@
+{
+ "bed180": [
+  "bed180_1.jpg",
+  "bed180_2.jpg"
+ ],
+ "bed120": [
+  "bed120_1.jpg"
+ ],
+ "bed90": [
+  "bed90_1.jpg"
+ ],
+ "wardrobe2": [
+  "wardrobe2_1.jpg"
+ ],
+ "wardrobe3": [
+  "wardrobe3_1.jpg"
+ ],
+ "drawers": [
+  "drawers_1.jpg"
+ ],
+ "dining6": [
+  "dining6_1.jpg",
+  "dining6_2.jpg"
+ ],
+ "dining4": [
+  "dining4_1.jpg",
+  "dining4_2.jpg"
+ ],
+ "desk200": [
+  "desk200_1.jpg"
+ ],
+ "desk180": [
+  "desk180_1.jpg",
+  "desk180_2.jpg"
+ ],
+ "desk160": [
+  "desk160_1.jpg"
+ ],
+ "studydesk": [
+  "studydesk_1.jpg",
+  "studydesk_2.jpg"
+ ],
+ "tv": [
+  "tv_1.jpg",
+  "tv_2.jpg",
+  "tv_3.jpg"
+ ],
+ "chair": [
+  "chair_1.jpg",
+  "chair_2.jpg"
+ ],
+ "shoe": [
+  "shoe_1.jpg",
+  "shoe_2.jpg",
+  "shoe_3.jpg"
+ ],
+ "coffee": [
+  "coffee_1.jpg",
+  "coffee_2.jpg"
+ ]
+}
